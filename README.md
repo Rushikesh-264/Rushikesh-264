@@ -16,5 +16,4 @@ I'm a computer science enthusiast with a passion for coding and problem-solving.
 
 
 ### Contact Me:
-- LinkedIn: [Rushikesh Doud](https://www.linkedin.com/in/rushikesh-doud/)
-- Email: rushikesh.doud@example.com
+ [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rushikesh-doud/)       [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:doudrhushikesh@gmail.com)
