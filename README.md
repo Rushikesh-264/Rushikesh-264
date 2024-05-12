@@ -1,12 +1,20 @@
-- 👋 Hello World!, I’m @Rushikesh-264
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hello World! 👋 I'm Rushikesh Doud
 
-<!---
-Rushikesh-264/Rushikesh-264 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+🎓 Final year student of Masters in Computer Science, a future software engineer.
+
+I'm a computer science enthusiast with a passion for coding and problem-solving. I have experience in a variety of programming languages and enjoy learning new technologies. Currently, I'm focused on mastering web development and contributing to open-source projects.
+
+ ![Coding](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
+
+
+
+### Technology Stack:
+![C](https://img.icons8.com/color/48/000000/c-programming.png)    ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)    ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)    ![Python](https://img.icons8.com/color/48/000000/python.png)    ![HTML](https://img.icons8.com/color/48/000000/html-5.png)    ![CSS](https://img.icons8.com/color/48/000000/css3.png)    ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Git](https://img.icons8.com/color/48/000000/git.png)  ![Linux](https://img.icons8.com/color/48/000000/linux.png)   ![Database](https://img.icons8.com/fluent/48/000000/database.png) 
+![GitHub](https://img.icons8.com/fluent/48/000000/github.png) 
+
+
+
+### Contact Me:
+- LinkedIn: [Rushikesh Doud](https://www.linkedin.com/in/rushikesh-doud/)
+- Email: rushikesh.doud@example.com
