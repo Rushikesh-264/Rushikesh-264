@@ -8,7 +8,7 @@ A final year master's student of computer science from India, passionate about c
 
    💼 Final year master student of computer science
    
-   🌱 Aspiring future software engineer
+   🌱 Future software engineer
    
    💻 Passionate about coding and exploring new technologies
 
