@@ -1,14 +1,31 @@
 ## Hello World! 👋 I'm Rushikesh Doud
+A final year master's student of computer science from India, passionate about coding and aspiring to be a Software Engineer 💻.
 
  ![Coding](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 
 
+🌟 About Me:
+
+    💼 Final year master student of Computer Science
+    🌱 Future Software Engineer
+    💻 Passionate about Coding and exploring new technologies
+
+
+🔧 Current Focus:
+
+    📚 Learning Web Development
+    💡 Solving problems on LeetCode
 
 
 
- I'm a computer science enthusiast with a passion for coding and problem-solving. 🚀
-- I have experience in a variety of programming languages and enjoy learning new technologies. 📚
-- Currently, I'm focused on mastering web development. 💻
+🌟 Featured Projects:
+   - Travel Wheels 🚗: Simplifying car rentals for customers and administrators. Choose from a diverse fleet of vehicles with an easy-to-use interface for seamless bookings. 🔗
+
+   - Text-To-Speech: Convert text to speech with a user-friendly Tkinter application. Download generated speech as audio. 🔗
+
+   - AI Tic-Tac-Toe ❌⭕: Play Tic-Tac-Toe against a computer opponent in the console. 🔗
+
+
 
 
 ### Technology Stack:
