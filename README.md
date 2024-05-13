@@ -18,4 +18,4 @@
 
 
 ### Connect With Me:
- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rushikesh-doud/)       [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:rushikesh.doud@example.com)
+ [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rushikesh-doud/)       [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:doudrhushikesh@gmail.com)
