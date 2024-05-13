@@ -8,7 +8,7 @@
 
  I'm a computer science enthusiast with a passion for coding and problem-solving. 🚀
 - I have experience in a variety of programming languages and enjoy learning new technologies. 📚
-- Currently, I'm focused on mastering web development and contributing to open-source projects. 💻
+- Currently, I'm focused on mastering web development. 💻
 
 
 ### Technology Stack:
