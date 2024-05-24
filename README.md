@@ -26,7 +26,7 @@ A final year master's student of computer science from India, passionate about c
    - Typing Speed Test ⌨️📈: Developed a Python-based Typing Speed Test application using Tkinter, enabling users to assess their typing speed and accuracy. This resulted in a 30% improvement in user experience with an accuracy rate of 95%.
 🔗 [Link](https://github.com/Rushikesh-264/Typing_test)
 
-   - Text-To-Speech: Convert text to speech with a user-friendly Tkinter application. Download generated speech as audio. 🔗 [Link](https://github.com/Rushikesh-264/Text-to-speech)
+   - Text-To-Speech 🗣️: Convert text to speech with a user-friendly Tkinter application. Download generated speech as audio. 🔗 [Link](https://github.com/Rushikesh-264/Text-to-speech)
 
    - Language Translator 🌐💬:  Developed a Python-based language translator with a user-friendly graphical interface using Tkinter, supporting more than 120 languages to enhance communication capabilities for users globally. 🔗 [Link](https://github.com/Rushikesh-264/Language_Translator)
 
