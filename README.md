@@ -29,10 +29,10 @@ A final year master's student of computer science from India, passionate about c
 
 
 **Technology Stack:**
-![C](https://img.icons8.com/color/48/000000/c-programming.png)    ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)    ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)    ![Python](https://img.icons8.com/color/48/000000/python.png)    ![HTML](https://img.icons8.com/color/48/000000/html-5.png)    ![CSS](https://img.icons8.com/color/48/000000/css3.png)    ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Git](https://img.icons8.com/color/48/000000/git.png)  ![Linux](https://img.icons8.com/color/48/000000/linux.png)   ![Database](https://img.icons8.com/fluent/48/000000/database.png) 
+   ![C](https://img.icons8.com/color/48/000000/c-programming.png)    ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)    ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)    ![Python](https://img.icons8.com/color/48/000000/python.png)    ![HTML](https://img.icons8.com/color/48/000000/html-5.png)    ![CSS](https://img.icons8.com/color/48/000000/css3.png)    ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Git](https://img.icons8.com/color/48/000000/git.png)  ![Linux](https://img.icons8.com/color/48/000000/linux.png)   ![Database](https://img.icons8.com/fluent/48/000000/database.png) 
 ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)   ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)   ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![NetBeans](https://img.icons8.com/windows/48/000000/netbeans.png)  
 
 
 
 **Connect With Me:**
- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rushikesh-doud/)       [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:doudrhushikesh@gmail.com)
+    [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rushikesh-doud/)       [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:doudrhushikesh@gmail.com)
