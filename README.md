@@ -20,11 +20,12 @@ A final year master's student of computer science from India, passionate about c
 
 **
 🌟 Featured Projects:**
-   - Travel Wheels 🚗: Simplifying car rentals for customers and administrators. Choose from a diverse fleet of vehicles with an easy-to-use interface for seamless bookings. 🔗
+   - Typing Speed Test ⌨️📈: Developed a Python-based Typing Speed Test application using Tkinter, enabling users to assess their typing speed and accuracy. This resulted in a 30% improvement in user experience with an accuracy rate of 95%.
+🔗 [GitHub Repository](https://github.com/doudrushikesh11/typing-speed-test)
 
-   - Text-To-Speech: Convert text to speech with a user-friendly Tkinter application. Download generated speech as audio. 🔗
+   - Text-To-Speech: Convert text to speech with a user-friendly Tkinter application. Download generated speech as audio. 🔗 [GitHub Repository](https://github.com/doudrushikesh11/text-to-speech)
 
-   - AI Tic-Tac-Toe ❌⭕: Play Tic-Tac-Toe against a computer opponent in the console. 🔗
+   - Language Translator 🌐💬:  Developed a Python-based language translator with a user-friendly graphical interface using Tkinter, supporting more than 120 languages to enhance communication capabilities for users globally. 🔗 [GitHub Repository](https://github.com/doudrushikesh11/language-translator)
 
 
 
