@@ -1,5 +1,5 @@
 **Hello World!** 👋 I'm Rushikesh Doud
-A final year master's student of computer science from India, passionate about coding and aspiring to be a Software Engineer 💻.
+A final year Master's student of Computer Science from India, passionate about coding and aspiring to be a Software Engineer 💻.
 
  ![Coding](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 
@@ -7,9 +7,9 @@ A final year master's student of computer science from India, passionate about c
 **🌟 About Me:**
 ==================
 
-   💼 Final year master student of computer science
+   💼 Final year Master's Student of Computer Science
    
-   🌱 Future software engineer
+   🌱 Future Software Engineer
    
    💻 Passionate about coding and exploring new technologies
 
